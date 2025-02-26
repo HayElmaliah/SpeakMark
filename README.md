@@ -1,4 +1,4 @@
-# Concept Detector
+# SpeakMark
 
 A real-time speech-to-text application that highlights important concepts based on a reference document. Perfect for sales calls, customer support, or any scenario where you need quick access to contextual information.
 
