@@ -13,8 +13,8 @@ A real-time speech-to-text application that highlights important concepts based 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/concept-detector.git
-   cd concept-detector
+   git clone https://github.com/yourusername/speakmark.git
+   cd speakmark
    ```
 
 2. Create a virtual environment (recommended):
